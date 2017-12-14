@@ -1,0 +1,2 @@
+ÎêTeknik Informatika UNPAD
+$¥	∫Õ!¥≤HÕ!Õ 

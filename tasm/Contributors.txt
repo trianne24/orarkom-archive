@@ -1,0 +1,12 @@
+Special thanks to the following
+
+Pavel Torgashov for FastColoured TextBox
+https://github.com/PavelTorgashov/FastColoredTextBox
+
+
+DOSBox Team for DOSBox
+http://www.dosbox.com
+
+
+Google Inc. for Google Translate
+https://translate.google.com
