@@ -10,11 +10,13 @@ Download: http://bit.ly/dosboxTasm
 Make the program:
 1. Make the assembly file in text editor
 2. Save it in a folder with tasm package folder inside it
-3. Open DOSBox
-4. Type:
-    mount g d:\assembly (can be replaced with your own directory)
-    g:
-    path g:\tasm\bin
-    tasm test1.asm (can be replaced with your own file name)
-    tlink/t test1.obj (can be replaced with your own file name)
-    test1
+
+Compile the program:
+1. Open DOSBox
+2. Type:
+- mount g d:\assembly (can be replaced with your own directory)
+- g:
+- path g:\tasm\bin
+- tasm test1.asm (can be replaced with your own file name)
+- tlink/t test1.obj (can be replaced with your own file name)
+- test1
