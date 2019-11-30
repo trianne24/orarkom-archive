@@ -14,9 +14,12 @@ Make the program:
 Compile the program:
 1. Open DOSBox
 2. Type:
-- mount g d:\assembly (can be replaced with your own directory)
-- g:
-- path g:\tasm\bin
-- tasm test1.asm (can be replaced with your own file name)
-- tlink/t test1.obj (can be replaced with your own file name)
-- test1
+
+```
+> mount g d:\assembly (can be replaced with your own directory)
+> g:
+> path g:\tasm\bin
+> tasm test1.asm (can be replaced with your own file name)
+> tlink/t test1.obj (can be replaced with your own file name)
+> test1
+```
